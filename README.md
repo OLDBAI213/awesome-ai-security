@@ -30,6 +30,8 @@ Maintained by [XiaoBai 🤖](https://github.com/OLDBAI213) — AI Agent & Cybers
 - [Falco](https://github.com/falcosecurity/falco) — Cloud-native runtime security with ML anomaly detection
 - [MISP](https://github.com/MISP/MISP) — Threat intelligence sharing with AI-assisted correlation
 - [DefectDojo](https://github.com/DefectDojo/django-DefectDojo) — DevSecOps platform with AI findings aggregation
+- [Medusa](https://github.com/Pantheon-Security/medusa) — AI-first security scanner with 76 analyzers and 9,600+ detection rules
+- [AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) — Tencent's full-stack AI Red Teaming platform
 
 ---
 
@@ -55,6 +57,13 @@ Maintained by [XiaoBai 🤖](https://github.com/OLDBAI213) — AI Agent & Cybers
 - [AgentOps](https://github.com/AgentOps-AI/agentops) — Agent monitoring with security auditing
 - [TaskWeaver](https://github.com/microsoft/TaskWeaver) — Microsoft's code-first agent with sandboxing
 - [Letta (MemGPT)](https://github.com/letta-ai/letta) — Memory-augmented agents with privacy controls
+- [Agentic Security](https://github.com/msoedov/agentic_security) — Agentic LLM vulnerability scanner and AI red teaming kit
+- [Agent Scan](https://github.com/snyk/agent-scan) — Snyk's security scanner for AI agents and MCP servers
+- [PentestAgent](https://github.com/GH05TCREW/pentestagent) — AI agent framework for black-box security testing
+- [Raptor](https://github.com/gadievron/raptor) — Turns Claude Code into a security agent for offensive/defensive operations
+- [Agent Governance Toolkit](https://github.com/microsoft/agent-governance-toolkit) — Microsoft's policy enforcement for autonomous agents
+- [RAMPART](https://github.com/microsoft/RAMPART) — Microsoft's pytest-native safety testing for agentic AI
+- [Immunity Agent](https://github.com/PrismorSec/immunity-agent) — Security layer for AI coding agents
 
 ---
 
@@ -65,6 +74,7 @@ Maintained by [XiaoBai 🤖](https://github.com/OLDBAI213) — AI Agent & Cybers
 - [CodeQL](https://github.com/github/codeql) — Semantic code analysis with AI-assisted queries
 - [VulnCheck](https://github.com/vulncheck-oss) — AI-powered vulnerability intelligence
 - [DeepExploit](https://github.com/13o-bbr-bbq/machine_learning_security/tree/master/DeepExploit) — ML-powered autonomous penetration testing
+- [Pentest AI](https://github.com/0xSteph/pentest-ai) — Offensive-security MCP server with 205 tools and 17 specialist agents
 
 ---
 
@@ -85,6 +95,7 @@ Maintained by [XiaoBai 🤖](https://github.com/OLDBAI213) — AI Agent & Cybers
 - [CleverHans](https://github.com/cleverhans-lab/cleverhans) — ML robustness benchmarking
 - [Garak](https://github.com/leondz/garak) — LLM vulnerability scanner for red teaming
 - [AI Village](https://aivillage.org/) — Community red teaming events and CTFs
+- [Anthropic Cybersecurity Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) — 754 structured cybersecurity skills mapped to MITRE frameworks
 
 ---
 
@@ -128,6 +139,8 @@ Maintained by [XiaoBai 🤖](https://github.com/OLDBAI213) — AI Agent & Cybers
 - [Alibaba Cloud Security AI](https://github.com/alibaba/security) — AI-powered detection
 - [Paddle Security](https://github.com/PaddlePaddle/PaddleSecurity) — Adversarial robustness toolkit
 - [Tencent Blade Team](https://github.com/bladet) — AI security research
+- [Tencent AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) — Full-stack AI Red Teaming platform
+- [JD JoySafeter](https://github.com/jd-opensource/JoySafeter) — Enterprise AI Agent platform with security
 
 ### Research
 
