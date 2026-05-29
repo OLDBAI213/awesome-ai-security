@@ -32,6 +32,9 @@ Maintained by [XiaoBai 🤖](https://github.com/OLDBAI213) — AI Agent & Cybers
 - [DefectDojo](https://github.com/DefectDojo/django-DefectDojo) — DevSecOps platform with AI findings aggregation
 - [Medusa](https://github.com/Pantheon-Security/medusa) — AI-first security scanner with 76 analyzers and 9,600+ detection rules
 - [AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) — Tencent's full-stack AI Red Teaming platform
+- [PentAGI](https://github.com/PentAGI/PentAGI) — Autonomous penetration testing with AI agents
+- [HackingBuddyGPT](https://github.com/SoCdWrEn/HackingBuddyGPT) — LLM-powered offensive security testing
+- [Hermes Agent](https://github.com/NousResearch/hermes-agent) — AI agent framework with security tool integration
 
 ---
 
@@ -45,6 +48,8 @@ Maintained by [XiaoBai 🤖](https://github.com/OLDBAI213) — AI Agent & Cybers
 - [Vigil](https://github.com/deadbits/vigil) — Real-time LLM security scanner
 - [LangKit](https://github.com/whylabs/langkit) — LLM monitoring for hallucinations and toxicity
 - [ModelScan](https://github.com/protectai/modelscan) — ML model security scanner
+- [PyRIT](https://github.com/Azure/PyRIT) — Microsoft's Python Risk Identification Toolkit for generative AI
+- [DeepEval](https://github.com/confident-ai/deepeval) — LLM evaluation framework with security metrics
 
 ---
 
