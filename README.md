@@ -90,6 +90,7 @@ Maintained by [XiaoBai 🤖](https://github.com/OLDBAI213) — AI Agent & Cybers
 - [Rebuff](https://github.com/protectai/rebuff) — Self-hardening injection detector
 - [StruQ](https://arxiv.org/abs/2402.06363) — Defending with structured queries (Zhang et al., 2024)
 - [JailbreakEval](https://github.com/alibaba/damo-academy/jailbreakeval) — Jailbreak evaluation framework
+- [APort Agent Guardrails](https://aport.io) - Pre-action authorization guardrails for AI agents and MCP/tool-use workflows.
 
 ---
 
