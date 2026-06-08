@@ -60,6 +60,7 @@ Maintained by [XiaoBai 🤖](https://github.com/OLDBAI213) — AI Agent & Cybers
 - [LangGraph](https://github.com/langchain-ai/langgraph) — Stateful multi-agent framework with safety
 - [Mem0](https://github.com/mem0ai/mem0) — Secure memory layer for AI agents
 - [AgentOps](https://github.com/AgentOps-AI/agentops) — Agent monitoring with security auditing
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) — On-chain wallet trust scoring MCP for Solana. Pre-transaction counterparty verification for AI agent payments. Free: `score_agent`, `preflight_check`.
 - [TaskWeaver](https://github.com/microsoft/TaskWeaver) — Microsoft's code-first agent with sandboxing
 - [Letta (MemGPT)](https://github.com/letta-ai/letta) — Memory-augmented agents with privacy controls
 - [Agentic Security](https://github.com/msoedov/agentic_security) — Agentic LLM vulnerability scanner and AI red teaming kit
