@@ -85,6 +85,7 @@ Maintained by [XiaoBai 🤖](https://github.com/OLDBAI213) — AI Agent & Cybers
 
 ## Prompt Injection Defense
 
+- [Armorer Guard](https://github.com/ArmorerLabs/Armorer-Guard) — Local Rust scanner and MCP proxy for prompt injection, credential leakage, exfiltration, and risky tool-call detection before execution
 - [PromptInject](https://github.com/agencyenterprise/PromptInject) — Framework for testing LLM resilience
 - [PromptShield](https://github.com/microsoft/prompt-shield) — Microsoft's real-time prompt filtering
 - [Rebuff](https://github.com/protectai/rebuff) — Self-hardening injection detector
