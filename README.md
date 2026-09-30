@@ -33,6 +33,7 @@ Maintained by [XiaoBai 🤖](https://github.com/OLDBAI213) — AI Agent & Cybers
 - [Medusa](https://github.com/Pantheon-Security/medusa) — AI-first security scanner with 76 analyzers and 9,600+ detection rules
 - [AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) — Tencent's full-stack AI Red Teaming platform
 - [PentAGI](https://github.com/PentAGI/PentAGI) — Autonomous penetration testing with AI agents
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) — Open source (GPL-3.0) autonomous AI pentest platform; a local model orchestrates offensive agents and tools over MCP and proves findings with real exploits
 - [HackingBuddyGPT](https://github.com/SoCdWrEn/HackingBuddyGPT) — LLM-powered offensive security testing
 - [Hermes Agent](https://github.com/NousResearch/hermes-agent) — AI agent framework with security tool integration
 
